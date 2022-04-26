@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @mvurban
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Servidor público e micro-empreendedor nas horas vagas.
 
-<!---
-mvurban/mvurban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Coordenador de tecnologia por 10 anos, orientando e conduzindo equipe de desenvolvimento.
+
+Criador da plataforma de troca de figurinhas: https://www.trocafigurinhas.com
+
+Desenvolvedor desde 1995, passei por diversas linguagens de programação: Cobol, Clipper, PowerBuilder, Visual Basic, "Html, CSS," JavaScript, ASP, ASP.NET, C# (MVC). Alguns bancos de dados, mas predominantemente SQL SERVER. 
+
+Atualmente me recolocando como desenvolvedor, que é minha paixão, aprendendo ReactJS, React Native, TypeScript, Firebase e todo esse ambiente.
+
+
