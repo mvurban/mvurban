@@ -2,7 +2,7 @@
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 [![Mvurban GitHub stats](https://github-readme-stats.vercel.app/api?username=mvurban&show_icons=true&theme=onedark&line_height=20)](https://github.com/mvurban/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvurban&layout=compact&line_height=8)](https://github.com/mvurban/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvurban&layout=compact&theme=onedark)](https://github.com/mvurban/github-readme-stats)
 
 Atualmente me recolocando como desenvolvedor, que é minha paixão, desenvolvendo habilidades em ReactJS, React Native, TypeScript, Firebase e todo esse ambiente.
 
