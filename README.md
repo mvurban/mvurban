@@ -1,4 +1,4 @@
-Atualmente me recolocando como desenvolvedor, que é minha paixão, desenvolvendo habilidades em ReactJS, React Native, TypeScript, Firebase e todo esse ambiente.
+Atualmente me recolocando como desenvolvedor, que é minha paixão, desenvolvendo habilidades em ReactJS, Next, TypeScript, Sass, Firebase e todo esse ambiente.
 
 Servidor público e micro-empreendedor nas horas vagas.
 
