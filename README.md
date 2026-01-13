@@ -8,7 +8,7 @@ Criador da plataforma de troca de figurinhas: https://www.trocafigurinhas.com
 
 Desenvolvedor desde 1995, passei por diversas linguagens de programação: Cobol, Clipper, PowerBuilder, Visual Basic, "Html, CSS," JavaScript, ASP, ASP.NET, C# (MVC). Alguns bancos de dados, mas predominantemente SQL SERVER. 
 
-Estive envolvido na criação de projetos web em diversas empresas:
+Estive envolvido na criação de projetos web em diversas empresas como abaixo:
 
 UERJ - Univesidade do Estado do Rio de Janeiro | Accor Brasil | CEL - Centro Educacional da Lagoa | Gisplan | Globosat | Guto Goffi | IBM Brasil | Liceu Franco Brasileiro | Petrobras | PUC-Rio | Shell | Sul América | Unilever  
 
